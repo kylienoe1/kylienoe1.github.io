@@ -55,52 +55,20 @@ sitemap:
 									<h2><a href="#">Kylie Smith <br />
                  						</p>
 								</header>
-								<a href="#" class="image main"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></a>
-                <p>Regardless of your website's function, the homepage is what brings the user in.
-                  If it's anything short of intriguing, captivating, or just plain cool, you're out of luck and you might deter some visitors.</p>
-                <p>Your homepage must clearly describe what your site is about.
-									Having engaging content will in this manner enable you to offer and it will make your customers more inclined to purchase from you. Content is a way to position your organization in the correct place for your clients to discover you.
-								</p>
-								<p>
-									In this manner, content in itself is a standout amongst the best promoting apparatuses in your whole advertising toolbox! Rather than making your content around your promoting technique, it's limitlessly more productive to fabricate your showcasing around your content.
-								 </p>
+								
+<span class="image left"><img src="{{ "/images/headshot.jpg" | absolute_url }}" alt="" /></span>
+
+Kylie Smith is a Ph.D. student in the <a href="https://www.utexas.edu/">Department of Government</a> at the <a href="https://liberalarts.utexas.edu/government/">University of Texas at Austin</a>. With subfields in International Relations and Comparative Govenrnment, my research interests lie in the space between conflict and post-conflict studies. My primary research interest is violent non-state actors (VNSOs) and the institutions they build before and after peace agreements. 
+
+Prior to coming to the University of Texas at Austin, I recieved my B.A. in the Honors College at Baylor University and my M.A. in Violence, Terrorism, and Security at the Queen's University Belfast. I am currently also a researcher for the Armed Conflict Location and Event Data Project (<a href="https://acleddata.com/">ACLED</a>) primarily conducting research in the central region of the United States of America. I am a member of the Conflict Research Society, as well as Phi Beta Kappa. 
+  <p>
+My research agenda lies at the intersection of conflict, security, and governance, with an emphasis on violent non-state actors (VNSOs) and post-conflict institutions. I research how VNSOs come to peace agreements, operate following peace agreements, and build instiutions both befoere and after peace agreements. I am currently working on a project involving post-ceasefire recruitment of VNSOs. 
+  </p>
 
 							</article>
 
-						<!-- Posts -->
-							<section class="posts">
-                {% for post in site.posts limit:3 %}
-                {% assign mod3 = forloop.index | modulo: 3 %}
-  								<article>
-  									<header>
-  										<span class="date">{{ post.date | date_to_string }}</span>
-  										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-  									</header>
-  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
-  									<p>{{ post.excerpt }}</p>
-  									<ul class="actions">
-  										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
-  									</ul>
-  								</article>
-                  {% if mod3 == 0 %}
-                  <article>
-  									<header>
-  										<h2><a href="#">Sponsored</a></h2>
-  									</header>
 
-  								</article>
-                  {% endif %}
-                {% endfor %}
-
-							</section>
-
-						<!-- Footer -->
-							<footer>
-                <ul class="actions">
-                  <li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
-                </ul>
-							</footer>
-
+						
 					</div>
 
 				<!-- Footer -->
