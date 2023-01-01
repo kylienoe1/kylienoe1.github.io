@@ -13,25 +13,25 @@ N/A
 
 ## Works in Progress
 
-<p>"Post-Ceasefire Recruitment in Violent Non-State Actors" <i>In Progress</i>
+"Post-Ceasefire Recruitment in Violent Non-State Actors" <i>In Progress</i>
 
 ## Presentations
 
-<p> <b>Conflict Research Society Conference</b> (September 2022) 
-<p> Presentation: The Mediated State: Multi-Layered Rebel Governance in Ethnic Armed Organizations in Myanmar
+<b>Conflict Research Society Conference</b> (September 2022) <br>
+Presentation: The Mediated State: Multi-Layered Rebel Governance in Ethnic Armed Organizations in Myanmar
     
-<p> <b>Undergraduate Research and Scholarly Achievement Conference</b> Baylor University (Spring 2019) 
-<p> Presentation: 抢人才大战: China's Talent War
+<b>Undergraduate Research and Scholarly Achievement Conference</b> Baylor University (Spring 2019) <br>
+Presentation: 抢人才大战: China's Talent War
 
 ## Academic Projects 
 
-<p> <b>Master's Dissertation</b> Queen's University Belfast (September 2022)
-<p> <i>Advisor: Dr. Ronit Berger-Hobson</i>
-<p>    Mediated States as Resilient Statebuilding: Ethnic Armed Organizations in Myanmar following the 2021 Coup D’état 
+<b>Master's Dissertation</b> Queen's University Belfast (September 2022)<br>
+<i>Advisor: Dr. Ronit Berger-Hobson</i> <br>
+Mediated States as Resilient Statebuilding: Ethnic Armed Organizations in Myanmar following the 2021 Coup D’état 
 
-<p> <b>Undergraduate Dissertation</b> Baylor University (December 2019)
-<p> <i>Advisor: Dr. David Corey</i>
-<p>    Liberal Capitalism as a Constraining Ideology 
+<b>Undergraduate Dissertation</b> Baylor University (December 2019) <br>
+<i>Advisor: Dr. David Corey</i> <br>
+Liberal Capitalism as a Constraining Ideology 
 
 
 ### Research Interests 
