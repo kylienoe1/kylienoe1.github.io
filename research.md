@@ -41,4 +41,3 @@ Liberal Capitalism as a Constraining Ideology
   </p>
 </div>
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
