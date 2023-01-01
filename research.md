@@ -7,13 +7,32 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-## Kylie Smith
+## Peer-Reviewed
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+N/A 
 
-Kylie Smith is a Ph.D. student in the <a href="https://www.utexas.edu/">Department of Government</a> at the <a href="https://liberalarts.utexas.edu/government/">University of Texas at Austin</a>. With subfields in International Relations and Comparative Govenrnment, my research interests lie in the space between conflict and post-conflict studies. My primary research interest is violent non-state actors (VNSOs) and the institutions they build before and after peace agreements. 
+## Works in Progress
 
-Prior to coming to the University of Texas at Austin, I recieved my B.A. in the Honors College at Baylor University and my M.A. in Violence, Terrorism, and Security at the Queen's University Belfast. I am currently also a researcher for the Armed Conflict Location and Event Data Project (<a href="https://acleddata.com/">ACLED</a>) primarily conducting research in the central region of the United States of America. I am a member of the Conflict Research Society, as well as Phi Beta Kappa. 
+<p>"Post-Ceasefire Recruitment in Violent Non-State Actors" <i>In Progress</i>
+
+## Presentations
+
+<p> <b>Conflict Research Society Conference</b> (September 2022) 
+<p> Presentation: The Mediated State: Multi-Layered Rebel Governance in Ethnic Armed Organizations in Myanmar
+    
+<p> <b>Undergraduate Research and Scholarly Achievement Conference</b> Baylor University (Spring 2019) 
+<p> Presentation: 抢人才大战: China's Talent War
+
+## Academic Projects 
+
+<p> <b>Master's Dissertation</b> Queen's University Belfast (September 2022)
+<p> <i>Advisor: Dr. Ronit Berger-Hobson</i>
+<p>    Mediated States as Resilient Statebuilding: Ethnic Armed Organizations in Myanmar following the 2021 Coup D’état 
+
+<p> <b>Undergraduate Dissertation</b> Baylor University (December 2019)
+<p> <i>Advisor: Dr. David Corey</i>
+<p>    Liberal Capitalism as a Constraining Ideology 
+
 
 ### Research Interests 
 <div class="box">
