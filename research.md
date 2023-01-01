@@ -37,7 +37,7 @@ Liberal Capitalism as a Constraining Ideology
 ### Research Interests 
 <div class="box">
   <p>
-  My research agenda lies at the intersection of conflict, security, and governance, with an emphasis on violent non-state actors (VNSOs) and post-conflict institutions. I research how VNSOs come to peace agreements, operate following peace agreements, and build instiutions both befoere and after peace agreements. I am currently working on a project involving post-ceasefire recruitment of VNSOs. 
+  My research agenda lies at the intersection of conflict, security, and governance, with an emphasis on violent non-state actors (VNSOs) and post-conflict institutions. I research how VNSOs come to peace agreements, operate following peace agreements, and build institutions both before and after peace agreements. I am currently working on a project involving post-ceasefire recruitment of VNSOs. 
   </p>
 </div>
 
