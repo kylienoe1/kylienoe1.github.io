@@ -3,7 +3,7 @@ layout: post
 title:  "The Constitutions of Myanmar: Failure to Address Grievances of Ethnic Minority Groups"
 date:   2023-1-2
 excerpt: "Comparative Look at the three consitutions of Myanmar and their failure to address the grievances of ethnic minority groups in Myanmar"
-image: "/images/pic02.jpg"
+image: "/images/Blog2.jpg"
 ---
 
 In this essay, I will examine the impact of political institutions on the ethnic conflict in Myanmar.  Building on grievance literature in ethnic conflict, I hypothesize that the ethnic conflict in Myanmar is exacerbated by the failure of the government to address the grievances of ethnic minority actors in the political institution of their constitution. To examine this, I will survey the three constitutions of Myanmar and evaluate if they addresses the grievances of the ethnic minority
