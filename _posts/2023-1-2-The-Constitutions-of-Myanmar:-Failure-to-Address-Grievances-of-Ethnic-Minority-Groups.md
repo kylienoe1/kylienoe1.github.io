@@ -33,13 +33,11 @@ The armed forces of Myanmar, also called the Tatmadaw, has existed since Myanmar
 <h3>Pro-Democracy Groups – Ethnic Majority Group</h3>
 The pro-democracy groups are primarily divided into two actors: political and social. The social actors are the general public, which has been an adamant advocate for democracy. As democracy was established in the 1947 Constitution, the primary pro-democracy grievances did not arise until the 1962 coup d’état by General Ne Win. The pro-democracy population has mobilized through protests, such as the 8888 Protests and through political parties, once they were allowed. Formed in 1988, the National League for Democracy is a significant political party led by Aung San Suu Kyi, the daughter of Aung San (Maizland, 2021). The primary objective of this party is to advocate for increased democracy and liberalization in Myanmar. While this is a significant actor in political conflict in Myanmar, for the purpose of this essay, I will not address their grievances in relation to the Constitutions. 
 
+<span class="image left"><img src="{{ "/images/Blog2_2.jpg" | absolute_url }}" alt="" /></span>
+
 <h3>Ethnic Minority Groups</h3>
 While the ethnic majority Bamar people comprise approximately 69% of the population of Myanmar, there are 135 recognized ethnic minority groups in Myanmar, which are further divided into 8 ethnic races: Bamar, Shan, Kachin, Chin, Rakhine, Mon, Kayah (also called Karenni), and Kayin (also called Karen)  (Embassy of the Union of Myanmar, n.d.). Additionally, there are ethnic minority groups not recognized by the government and thus barred from citizenship. While these ethnic minority groups are diverse, they all share very similar grievances due to the colonial history of Myanmar and its political development after independence. Ethnic minority groups mobilize politically through ethnic political parties, which advocate for the right to greater autonomy for ethnic minority groups and their territories. These political parties may occasionally vary in regards to their, political ideology, but they all generally advocate for greater self-determination for their respective ethnic groups or for a federal system (Oh, 2020).  The ethnic minority actors mobilize militarily through Ethnic Armed Organizations (EAOs). With some of these EAOs founded as early as 1948, they have been advocating for the right to autonomy and independence of their respective ethnic groups since the independence of Myanmar (Bynum, 2018). The primary grievances of ethnic minority groups in Myanmar are a lack of political influence, the lack of ethnic control over territory, marginalization and discrimination by the ethnic majority groups, and a lack of economic and social infrastructure. There is also a deep hatred for the Tatmadaw’s “Burmanization” policy, in which the military pursued the “Burmese Way to Socialism” through the repression of ethnic minority language, culture, and religion (Kramer, 2015). In response to these grievances, ethnic minority groups pursue an agenda of federalism or ethnofederalism, which often intersects with democratic ideology. 
 
-<a href="#" class="image main"><img src="{{ "/images/Blog2_2.jpg" | absolute_url }}" alt="" /></a> <br>
-Source: (Bennison, 1933) <br>
-Image Source: <br> 
-Myint-U, T (2018) 9 October. Available <a href= "https://twitter.com/thantmyintu/status/1049662126304837635?lang=en-GB/"> here</a> 
 
 <h2>Constitutions</h2>
 
@@ -87,6 +85,8 @@ This constitution significantly, incorporated democratic institutions and began 
 
 The constitutions of Myanmar have systemically denied the requests of the ethnic minority groups and have aggravated grievances in those communities. The Constitution of 1947 failed to provide for federalism, as promised by General Aung San in the Panglong Agreement, and following that constitution, political representation, political autonomy, and rights of the ethnic minorities have been gradually removed through both amendments and further constitutions. The 1974 Constitution removed the political representation offered to the ethnic minority groups by removing the Chamber of Nationalities and changed the territorial system from asymmetrical to symmetrical to minimize the importance of the ethnic minorities. The 2008 Constitution, while providing limited democratic institutions, such as ethnic political parties, fails to address the primary grievances of the ethnic minority groups by not incorporating a federal system and failing to provide political representation for the ethnic minority groups. While there is no current constitution in Myanmar, the ethnic conflict continues. EAOs continue to engage in armed clashes with the Tatmadaw and advocate for political autonomy. As the future of Myanmar unfolds following the 2021 coup d’état, the people of Myanmar wait to see what new political structure will determine the allocation of power in the country.  
 
+<h2>Constitutions of Myanmar</h2>
+
 <div class="table-wrapper">
 		<table>
 			<thead>
@@ -129,12 +129,11 @@ The constitutions of Myanmar have systemically denied the requests of the ethnic
  </div>
  
  
- 
- 
 
 
 
 <h2>Bibliography</h2>
+
 Aktar, T. (2020) Democratic Election in Myanmar: Political Transition and Challenges. Asian Profile. 48 (1) <br>
 Anon (2008) Constitution of the Republic of the Union of Myanmar. <br>
 Anon (1947) Constitution of the Union of Burma. <br>
@@ -160,3 +159,6 @@ Taylor, R. H. (2005) Do states make nations? The politics of identity in Myanmar
 Transnational Institute (2017) Beyond Panglong: Myanmar’s National Peace and Reform Dilemma. <br>
 Walton, M. J. (2008) Ethnicity, conflict, and history in Burma: The myths of Panglong. Asian Survey. [Online] 48 (6), 889–910.<br>
 Zartman, I. W. (2005) Greed and Grievance: Methodological and Epistemological Underpinnings of the Debate. 
+
+Image Source: <br> 
+Myint-U, T (2018) 9 October. Available <a href= "https://twitter.com/thantmyintu/status/1049662126304837635?lang=en-GB/"> here</a> 
