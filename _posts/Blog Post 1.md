@@ -3,7 +3,7 @@ layout: post
 title:  "Transformative Mediation for Aboriginal Peoples: Mornington Island Restorative Justice Project"
 date:   2023-1-1
 excerpt: "Comprehensive Review of the Transformative Mediation Project on Mornington Island"
-image: "/images/pic02.jpg"
+image: "/images/Blog1.jpg"
 ---
 
 In this blog post, I examine the case study of the Mornington Island Restorative Justice (MIRJ) project. This project centres on both transformative mediation and restorative justice mediation, attempting to provide mediation services that meet the needs of an Australian Aboriginal community that lives between two worlds: a traditional world and a settler world. I conclude that the case study succeeds in creating a mediation project that serves the needs of its people and mediates not just between victims and offenders, but also between Aboriginal justice and Settler  justice. 
