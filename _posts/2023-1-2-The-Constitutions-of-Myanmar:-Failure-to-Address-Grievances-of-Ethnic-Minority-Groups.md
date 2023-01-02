@@ -85,51 +85,6 @@ This constitution significantly, incorporated democratic institutions and began 
 
 The constitutions of Myanmar have systemically denied the requests of the ethnic minority groups and have aggravated grievances in those communities. The Constitution of 1947 failed to provide for federalism, as promised by General Aung San in the Panglong Agreement, and following that constitution, political representation, political autonomy, and rights of the ethnic minorities have been gradually removed through both amendments and further constitutions. The 1974 Constitution removed the political representation offered to the ethnic minority groups by removing the Chamber of Nationalities and changed the territorial system from asymmetrical to symmetrical to minimize the importance of the ethnic minorities. The 2008 Constitution, while providing limited democratic institutions, such as ethnic political parties, fails to address the primary grievances of the ethnic minority groups by not incorporating a federal system and failing to provide political representation for the ethnic minority groups. While there is no current constitution in Myanmar, the ethnic conflict continues. EAOs continue to engage in armed clashes with the Tatmadaw and advocate for political autonomy. As the future of Myanmar unfolds following the 2021 coup d’état, the people of Myanmar wait to see what new political structure will determine the allocation of power in the country.  
 
-<h2>Constitutions of Myanmar</h2>
-
-<div class="table-wrapper">
-		<table>
-			<thead>
-        <tr>
-					<th>Constiution</th>
-					<th>Parliamentary Structure</th>
-					<th>Elections</th>
-          <th>Territorial</th>
-          <th>Secession Rights</th>
-          <th>Federal Provisions</th>
-          <tr>
-      </thead>
-			<tbody>
-				<tr>
-					<td>1947</td>
-					<td>Bicameral: Chamber of Deputies and Chamber of Nationalities</td>
-					<td>Multi-Party</td>
-          <td>Assymmetrical Division: Five special territories based on Ethnic Minority</td>
-          <td>Shan and Karenni State could secede from the Union of Burma after 10 years</td>
-          <td> No Federal Provisions</td>
-				</tr>
-				<tr>
-					<td>1974</td>
-					<td>Unicameral</td>
-					<td>Single Party - Burmese Socialist Party</td>
-          <td>Symmetrical Division: All states are equal</td>
-          <td>No Secession Rights</td>
-          <td>No Federal Provisions</td>
-				</tr>
-				<tr>
-					<td>2008</td>
-					<td>Bicameral: People's Assembly and Chamber of Nationalities</td>
-					<td>Multi-Party - open to all parties following 2011</td>
-          <td>Assymetrical Division: Seven Regions, Seven States, and Self-Administered Zones/Divisions based on ethnic minority groups with limited self-governance</td>
-          <td>No Secession Rights</td>
-          <td>No Federal Povisions</td>
-				</tr>
-	</tbody>
-  </table>
- </div>
- 
- 
-
 
 
 <h2>Bibliography</h2>
@@ -160,5 +115,48 @@ Transnational Institute (2017) Beyond Panglong: Myanmar’s National Peace and R
 Walton, M. J. (2008) Ethnicity, conflict, and history in Burma: The myths of Panglong. Asian Survey. [Online] 48 (6), 889–910.<br>
 Zartman, I. W. (2005) Greed and Grievance: Methodological and Epistemological Underpinnings of the Debate. 
 
-Image Source: <br> 
-Myint-U, T (2018) 9 October. Available <a href= "https://twitter.com/thantmyintu/status/1049662126304837635?lang=en-GB/"> here</a> 
+Image Source: Myint-U, T (2018) 9 October. Available <a href= "https://twitter.com/thantmyintu/status/1049662126304837635?lang=en-GB/"> here</a> 
+
+
+
+
+<h2>Constitutions of Myanmar</h2>
+
+<div class="table-wrapper">
+		<table>
+			<thead>
+        <tr>
+					<th>Constiution</th>
+					<th>Parliamentary Structure</th>
+					<th>Elections</th>
+          <th>Territorial</th>
+          <th>Secession Rights</th>
+          <th>Federal Provisions</th>
+          <tr>
+			<tbody>
+				<tr>
+					<td>1947</td>
+					<td>Bicameral: Chamber of Deputies and Chamber of Nationalities</td>
+					<td>Multi-Party</td>
+          <td>Assymmetrical Division: Five special territories based on Ethnic Minority</td>
+          <td>Shan and Karenni State could secede from the Union of Burma after 10 years</td>
+          <td> No Federal Provisions</td>
+				</tr>
+				<tr>
+					<td>1974</td>
+					<td>Unicameral</td>
+					<td>Single Party - Burmese Socialist Party</td>
+          <td>Symmetrical Division: All states are equal</td>
+          <td>No Secession Rights</td>
+          <td>No Federal Provisions</td>
+				</tr>
+				<tr>
+					<td>2008</td>
+					<td>Bicameral: People's Assembly and Chamber of Nationalities</td>
+					<td>Multi-Party - open to all parties following 2011</td>
+          <td>Assymetrical Division: Seven Regions, Seven States, and Self-Administered Zones/Divisions based on ethnic minority groups with limited self-governance</td>
+          <td>No Secession Rights</td>
+          <td>No Federal Povisions</td>
+				</tr>
+	
+ 
