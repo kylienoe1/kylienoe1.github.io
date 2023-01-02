@@ -120,7 +120,7 @@ The constitutions of Myanmar have systemically denied the requests of the ethnic
 					<td>2008</td>
 					<td>Bicameral: People's Assembly and Chamber of Nationalities</td>
 					<td>Multi-Party - open to all parties following 2011</td>
-          <td>Assymetrical Division: Seven Regions, Seven States, and Self-Administered Zones/Divisions</td>
+          <td>Assymetrical Division: Seven Regions, Seven States, and Self-Administered Zones/Divisions based on ethnic minority groups with limited self-governance</td>
           <td>No Secession Rights</td>
           <td>No Federal Povisions</td>
 				</tr>
