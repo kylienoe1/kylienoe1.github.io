@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Constitutions of Myanmar: Failure to Address Grievances of Ethnic Minority Groups"
-date:   2023-1-1
+date:   2023-1-2
 excerpt: "Comparative Look at the three consitutions of Myanmar and their failure to address the grievances of ethnic minority groups in Myanmar"
 image: "/images/pic02.jpg"
 ---
