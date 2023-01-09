@@ -7,9 +7,6 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-## Peer-Reviewed
-
-N/A 
 
 ## Works in Progress
 
