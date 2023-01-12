@@ -7,6 +7,14 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-<center>
-    <embed src="https://github.com/kylienoe1/kylienoe1.github.io/blob/master/files/Kylie_Smith_CV.pdf" width="100%" height="1000" type="application/pdf">
-</center>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en" style="width:100%; height:100%;">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>kekayan's Resume</title>
+</head>
+  <body style="width:100%; height:100%; margin:0;">
+    <iframe src="https://docs.google.com/gview?url= https://github.com/kylienoe1/CV &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+  </body>
+</html>
