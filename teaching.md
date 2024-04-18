@@ -9,6 +9,10 @@ sitemap:
 ---
 ## Teaching Assistant Positions
 
-GOV 312L: Issues and Policies in American Government (Spring 2023) 
+GOV 360R: Civil Wars & Ethnic Violence (Spring 2024) 
+
+GOV 365V: Comprehensive Notions of European Security (Fall 2023) 
+
+GOV 312L: The Politics of Poverty (Spring 2023) 
 
 GOV 365S: Comparative Legal Systems (Fall 2022) 
