@@ -7,8 +7,29 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
+## Instructor of Record Positions
+
+Nationalism and Violence (Fall 2025) 
+
+Political Internship (Summer 2025) 
+
+
 ## Teaching Assistant Positions
 
-GOV 312L: Issues and Policies in American Government (Spring 2023) 
+Terrorism and Counter-terrorism (Spring 2025) 
 
-GOV 365S: Comparative Legal Systems (Fall 2022) 
+The Military and U.S. Politics (Fall 2024)
+
+Civil Wars and Ethnic Violence (Spring 2024) 
+
+Comprehensive Notions of European Security (Fall 2023) 
+
+Politics of Poverty (Spring 2023)
+
+Comparative Legal Systems (Fall 2022) 
+
+
+## Guest Lecture 
+Terrorism and Counter-terrorism (Spring 2025)
+
+Ethnic Politics of China, Taiwan, and Asia (Spring 2025) 
