@@ -8,6 +8,8 @@ sitemap:
     changefreq: weekly
 ---
 <center>
-    <embed src="https://github.com/kylienoe1/kylienoe1.github.io/blob/master/files/CV_Jan_2026.pdf" width="100%" height="1000" type="application/pdf">
+    <iframe src="/files/CV_Jan_2026.pdf" width="100%" height="1000" style="border: none;">
+        <p>Your browser does not support PDFs. <a href="/files/CV_Jan_2026.pdf" target="_blank">Download the CV</a> instead.</p>
+    </iframe>
 </center>
 
