@@ -1,7 +1,7 @@
 # Site
-title:              Kylie Smith
-bio:                'Ph.D Student at University of Texas Department of Government'
-description:        "Ph.D Student at University of Texas Department of Government"
+title:              Kylie N. Smith
+bio:                'Ph.D Candidate at University of Texas Department of Government'
+description:        "Ph.D Candidate at University of Texas Department of Government"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
