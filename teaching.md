@@ -8,14 +8,12 @@ sitemap:
     changefreq: weekly
 ---
 ## Instructor of Record Positions
-
 Nationalism and Violence (Fall 2025) 
 
 Political Internship (Summer 2025) 
 
 
 ## Teaching Assistant Positions
-
 Terrorism and Counter-terrorism (Spring 2025) 
 
 The Military and U.S. Politics (Fall 2024)
@@ -33,3 +31,6 @@ Comparative Legal Systems (Fall 2022)
 Terrorism and Counter-terrorism (Spring 2025)
 
 Ethnic Politics of China, Taiwan, and Asia (Spring 2025) 
+
+## Mentorship 
+Mentored Undergraduate Research Intern (Spring 2026) 
