@@ -8,6 +8,11 @@ sitemap:
     changefreq: weekly
 ---
 ## Instructor of Record Positions
+
+Research Methods II (Spring 2027 - scheduled) 
+
+U.S. National Security in the Middle East (Summer 2026) 
+
 Nationalism and Violence (Fall 2025) 
 
 Political Internship (Summer 2025) 
