@@ -16,7 +16,14 @@ sitemap:
 
 "The End of Pro-Government Militia Relationships: Agency Slack and the Breakdown of Delegation" <i>Under Review</i>
 
-"Brokers Under Pressure: How Brokerage Roles Affects Armed Group Restraint" 
+"“Renegotiating Existence: Excluded Armed Groups and the Informal Foundations of Durable
+Peace" 
+
+<b>Smith, Kylie N.</b> and Daniel Little. “Up in Arms: The Effect of Militia Demonstrations on Local Policy
+During the Drag Panic of 2022-2024 ”
+
+Findley, Michael G. “Do Aid Shocks Cause Violent Conflict? Evidence from the Global Retrenchment of
+U.S. Foreign Assistance.” (With <b>Kylie Smith</b>, ChangHa Kim, and Others)
 
 ## Presentations
 <b>Terrorism and Civil Wars Conference</b> at the University of Houston (February 2025) <br>
@@ -24,7 +31,6 @@ Presentation: Pro-Government Militia Termination: Mitigating Agency Slack in the
 
 <b>Conflict Research Society Conference</b> at Queen's University Belfast (September 2022) <br>
 Presentation: The Mediated State: Multi-Layered Rebel Governance in Ethnic Armed Organizations in Myanmar
-
 
 ## Academic Projects 
 
