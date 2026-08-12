@@ -9,27 +9,27 @@ sitemap:
 ---
 ## Instructor of Record Positions
 
-Research Methods II (Spring 2027 - scheduled) 
+Research Methods II (Spring 2027 - <i>scheduled</i>) 
 
 U.S. National Security in the Middle East (Summer 2026) 
 
-Nationalism and Violence (Fall 2025) 
+Nationalism and Violence (Fall 2025) <a href="/files/Syllabus_Kylie_Smith.pdf" target="_blank"> Syllabus</a> 
 
 Political Internship (Summer 2025) 
 
 
 ## Teaching Assistant Positions
-Terrorism and Counter-terrorism (Spring 2025) 
+Terrorism and Counter-terrorism - Dr. Michael Findley (Spring 2025) 
 
-The Military and U.S. Politics (Fall 2024)
+The Military and U.S. Politics - Dr. David Leal (Fall 2024)
 
-Civil Wars and Ethnic Violence (Spring 2024) 
+Civil Wars and Ethnic Violence - Dr. Michael Findley (Spring 2024) 
 
-Comprehensive Notions of European Security (Fall 2023) 
+Comprehensive Notions of European Security - Dr. Michael Mosser (Fall 2023) 
 
-Politics of Poverty (Spring 2023)
+Politics of Poverty - Dr. Zoltan Barany (Spring 2023)
 
-Comparative Legal Systems (Fall 2022) 
+Comparative Legal Systems - Dr. Daniel Brinks (Fall 2022) 
 
 
 ## Guest Lecture 
