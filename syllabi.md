@@ -1,10 +1,11 @@
+---
 layout: page
 title: Sample Syllabi
 description:
 sitemap:
     priority: 0.7
-    lastmod: 2017-11-02
-    changefreq: weekly
+    lastmod: 2026-08-12
+    changefreq: annually
 ---
 <center>
     <iframe src="/files/Syllabus_Kylie_Smith.pdf" width="100%" height="1000" style="border: none;">
