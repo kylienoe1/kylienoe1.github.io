@@ -42,11 +42,11 @@ Presentation: The Mediated State: Multi-Layered Rebel Governance in Ethnic Armed
 
 ## Academic Projects 
 
-<b>Dissertation </b> Univeristy of Texas at Austin <br>
+<b>Dissertation </b> University of Texas at Austin <br>
 <i>Committee: Dr. Michael Findley (chair), Dr. Scott Wolford, Dr. Max Goplerud, Dr. Sabine Carey (external) </i> <br>
 Now What? Patterns of Violence and Organizational Change in Post-Conflict Armed Groups 
 
-<b>Master's Thesis </b> Univeristy of Texas at Austin (May 2024)<br>
+<b>Master's Thesis </b> University of Texas at Austin (May 2024)<br>
 <i>Committee: Dr. Michael Findley (chair), Dr. Scott Wolford </i> <br>
 Pro-Government Militia Termination: Mitigating Agency Slack in the Principal-Agent Relationship
 
