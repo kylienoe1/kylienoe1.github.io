@@ -15,6 +15,7 @@ sitemap:
 ## Works in Progress
 
 <b>Smith, Kylie N.</b> "Renegotiating Existence: Excluded Armed Groups and the Informal Foundations of Durable Peace" 
+<a href="https://apsa2026.ipostersessions.com/Default.aspx?s=B6-FA-B3-9E-3E-D4-FE-A3-C1-A2-85-2C-B9-17-9E-76#)">[View the 2026 APSA iPoster HERE]</a>
 
 <b>Smith, Kylie N.</b> and Daniel Little. “Up in Arms: The Effect of Militia Demonstrations on Local Policy
 During the Drag Panic of 2022-2024 ”
